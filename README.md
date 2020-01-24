@@ -4,7 +4,7 @@ Experiência de autenticação completa para aplicativos construídos em React N
 * Framework: [React Native](https://facebook.github.io/react-native/).
 * Navegação: [React-navigation](https://reactnavigation.org/).
 * Lib: [Expo](https://docs.expo.io/versions/latest/workflow/expo-cli/).
-* Front-end: [Interface simples](https://oikabin.github.io/).
+* Front-end: [Interface simples](https://klauberfreitas.github.io/).
 * Back-end (Autenticação): [AWS Amplify](https://aws-amplify.github.io/).
 
 ### Por que?
@@ -103,7 +103,7 @@ $ expo start --android
 
 ## Licença
 
-MIT © [Klauber Freitas](https://github.com/oikabin)
+MIT © [Klauber Freitas](https://github.com/klauberfreitas)
 
 
 
