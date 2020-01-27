@@ -8,8 +8,10 @@ Experiência de autenticação completa para aplicativos construídos em React N
 * Back-end (Autenticação): [AWS Amplify](https://aws-amplify.github.io/).
 
 ### Por que?
-    Comecei a estudar React Native em *outubro de 2019* e me deparei com dúvidas das quais sempre encontrei as respostas através de outros usuários. 
-    Até que não encontrei um método de usar o `AWS Amplify` com componentes personalizados. Então decidi criar esse repositório com intuito de também
+    Comecei a estudar React Native em *outubro de 2019* e me deparei com dúvidas
+    das quais sempre encontrei as respostas através de outros usuários. 
+    Até que não encontrei um método de usar o `AWS Amplify` com componentes personalizados. 
+    Então decidi criar esse repositório com intuito de também
     ajudar outras pessoas que encontram as mesmas dúvidas que eu. 
 
 
