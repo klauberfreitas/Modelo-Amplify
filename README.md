@@ -7,14 +7,12 @@ Experiência de autenticação completa para aplicativos construídos em React N
 * Front-end: [Interface simples](https://klauberfreitas.github.io/).
 * Back-end (Autenticação): [AWS Amplify](https://aws-amplify.github.io/).
 
-### Por que?
-    Comecei a estudar React Native em *outubro de 2019* e me deparei com dúvidas
-    das quais sempre encontrei as respostas através de outros usuários. 
-    Até que não encontrei um método de usar o `AWS Amplify` com componentes personalizados. 
-    Então decidi criar esse repositório com intuito de também
-    ajudar outras pessoas que encontram as mesmas dúvidas que eu. 
 
-
+## Protótipo feito no Adobe Xd 
+    *link para download em breve
+![Adobexd](https://user-images.githubusercontent.com/10797704/74680263-cc26d100-519e-11ea-9c6d-ba0a6c53db81.PNG)
+    
+    
 ## Fluxo de autenticação
 
 ![Visão Geral](https://user-images.githubusercontent.com/10797704/73019691-dd302c80-3e02-11ea-8e10-d0f6e1854eb6.png)
